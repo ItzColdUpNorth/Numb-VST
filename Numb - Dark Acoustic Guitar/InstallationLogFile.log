@@ -1,0 +1,58 @@
+﻿2021-05-26 14:50:00.917   Log opened. (Time zone: UTC-04:00)
+2021-05-26 14:50:00.920   Setup version: Inno Setup version 6.1.2
+2021-05-26 14:50:00.924   Original Setup EXE: E:\hise-exporter-main\hise-exporter-main\assets\%New Nation - Numb Acoustic Guitar%%OUTPUT_NAME_EXTRA% %1.0.0%.exe
+2021-05-26 14:50:00.926   Setup command line: /SL5="$87F13D0,780800,780800,E:\hise-exporter-main\hise-exporter-main\assets\%New Nation - Numb Acoustic Guitar%%OUTPUT_NAME_EXTRA% %1.0.0%.exe" /SPAWNWND=$A6D0D6E /NOTIFYWND=$10CA0A1C /DEBUGWND=$48C50CE8 
+2021-05-26 14:50:00.932   Windows version: 10.0.19041  (NT platform: Yes)
+2021-05-26 14:50:00.934   64-bit Windows: Yes
+2021-05-26 14:50:00.935   Processor architecture: x64
+2021-05-26 14:50:00.937   User privileges: Administrative
+2021-05-26 14:50:00.945   Administrative install mode: Yes
+2021-05-26 14:50:00.948   Install mode root key: HKEY_LOCAL_MACHINE
+2021-05-26 14:50:00.951   64-bit install mode: Yes
+2021-05-26 14:50:00.961   Created temporary directory: C:\Users\mj4dp\AppData\Local\Temp\is-7SCJO.tmp
+2021-05-26 14:50:04.420   Message box (OK):
+                          Folder names cannot include any of the following characters:
+                          
+                          / : * ? " < > |
+2021-05-26 14:50:05.844   User chose OK.
+2021-05-26 14:50:16.324   Message box (OK):
+                          Folder names cannot include any of the following characters:
+                          
+                          / : * ? " < > |
+2021-05-26 14:50:21.304   User chose OK.
+2021-05-26 14:50:32.098   Message box (OK):
+                          You must enter a full path with drive letter; for example:
+                          
+                          C:\APP
+                          
+                          or a UNC path in the form:
+                          
+                          \\server\share
+2021-05-26 14:50:33.440   User chose OK.
+2021-05-26 14:51:31.356   Found 0 files to register with RestartManager.
+2021-05-26 14:51:31.373   Starting the installation process.
+2021-05-26 14:51:31.381   Creating directory: E:\1 My Documents\HISE Builds\Numb - Dark Acoustic Guitar\Numb - Dark Acoustic Guitar
+2021-05-26 14:51:31.671   Setting permissions on directory: E:\1 My Documents\HISE Builds\Numb - Dark Acoustic Guitar\Numb - Dark Acoustic Guitar
+2021-05-26 14:51:31.677   Starting 64-bit helper process.
+2021-05-26 14:51:31.812   Helper process PID: 2504
+2021-05-26 14:51:31.892   Directory for uninstall files: E:\1 My Documents\HISE Builds\Numb - Dark Acoustic Guitar\Numb - Dark Acoustic Guitar
+2021-05-26 14:51:31.894   Creating new uninstall log: E:\1 My Documents\HISE Builds\Numb - Dark Acoustic Guitar\Numb - Dark Acoustic Guitar\unins000.dat
+2021-05-26 14:51:31.900   -- File entry --
+2021-05-26 14:51:31.903   Dest filename: E:\1 My Documents\HISE Builds\Numb - Dark Acoustic Guitar\Numb - Dark Acoustic Guitar\unins000.exe
+2021-05-26 14:51:31.906   Non-default bitness: 32-bit
+2021-05-26 14:51:31.909   Time stamp of our file: 2021-05-26 14:50:00.589
+2021-05-26 14:51:31.911   Installing the file.
+2021-05-26 14:51:31.978   Successfully installed the file.
+2021-05-26 14:51:31.982   -- Icon entry --
+2021-05-26 14:51:31.986   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\New Nation - Numb Acoustic Guitar\Uninstall %New Nation - Numb Acoustic Guitar%.lnk
+2021-05-26 14:51:31.990   Creating directory: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\New Nation - Numb Acoustic Guitar
+2021-05-26 14:51:32.008   Creating the icon.
+2021-05-26 14:51:32.331   Successfully created the icon.
+2021-05-26 14:51:32.346   Saving uninstall information.
+2021-05-26 14:51:32.348   Creating new uninstall key: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\%New Nation - Numb Acoustic Guitar%_is1
+2021-05-26 14:51:32.351   Writing uninstall key values.
+2021-05-26 14:51:32.353   Detected previous non administrative install? No
+2021-05-26 14:51:32.355   Detected previous administrative 32-bit install? No
+2021-05-26 14:51:32.362   Installation process succeeded.
+2021-05-26 14:51:32.367   Need to restart Windows? No
+2021-05-26 14:51:38.121   Deinitializing Setup.

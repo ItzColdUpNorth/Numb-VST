@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Preset Version="2.0.0">
+  <Content Processor="Interface">
+    <Control type="ScriptSlider" id="HPFiltknb" value="219.0"/>
+    <Control type="ScriptSlider" id="LPFiltknb" value="17000.0"/>
+    <Control type="ScriptSlider" id="FeelFreqknb" value="500.0"/>
+    <Control type="ScriptSlider" id="FeelGainknb" value="4.499999874951754e-7"/>
+    <Control type="ScriptSlider" id="FeelQknb" value="0.699999988079071"/>
+    <Control type="ScriptSlider" id="WavesFreqknb" value="8.0"/>
+    <Control type="ScriptSlider" id="WavesSmoothknb" value="5.0"/>
+    <Control type="ScriptSlider" id="WavesFadeInknb" value="1000.0"/>
+    <Control type="ScriptSlider" id="WavesIntenseknb" value="0.0"/>
+    <Control type="ScriptSlider" id="ReverbLPknb" value="20000.0"/>
+    <Control type="ScriptSlider" id="ReverbHPknb" value="79.0"/>
+    <Control type="ScriptSlider" id="ReverbWetknb" value="0.5099999904632568"/>
+    <Control type="ScriptSlider" id="ReverbStereoknb" value="0.699999988079071"/>
+    <Control type="ScriptSlider" id="ReverbRoomknb" value="0.5099999904632568"/>
+    <Control type="ScriptSlider" id="ReverbDampknb" value="0.4000000059604645"/>
+    <Control type="ScriptSlider" id="FeelFreqknb2" value="20.0"/>
+    <Control type="ScriptSlider" id="FeelGainknb2" value="2.0"/>
+    <Control type="ScriptSlider" id="FeelQknb2" value="20000.0"/>
+    <Control type="ScriptSlider" id="WavesFreqknb2" value="0.300000011920929"/>
+    <Control type="ScriptSlider" id="WavesFadeInknb2" value="3.0"/>
+    <Control type="ScriptSlider" id="DelayMixknb" value="0.0"/>
+    <Control type="ScriptSlider" id="WavesIntenseknb2" value="0.300000011920929"/>
+    <Control type="ScriptSlider" id="FeelFreqknb1" value="6500.0"/>
+    <Control type="ScriptSlider" id="FeelGainknb1" value="4.499999874951754e-7"/>
+    <Control type="ScriptSlider" id="FeelQknb1" value="1.5"/>
+    <Control type="ScriptButton" id="Guitar1btn" value="1.0"/>
+    <Control type="ScriptSlider" id="Guitar1Attackknb" value="0.0"/>
+    <Control type="ScriptSlider" id="Guitar1Releaseknb" value="5000.0"/>
+    <Control type="ScriptSlider" id="Guitar1Gainknb" value="11.3000020980835"/>
+    <Control type="ScriptSlider" id="Guitar1Pansld" value="1.490000045123452e-6"/>
+    <Control type="ScriptButton" id="Guitar2btn" value="1.0"/>
+    <Control type="ScriptButton" id="Guitar3btn" value="1.0"/>
+    <Control type="ScriptButton" id="Guitar4btn" value="1.0"/>
+    <Control type="ScriptSlider" id="MasterGainknb" value="-9.29999828338623"/>
+    <Control type="ScriptButton" id="FXFretbutt" value="0.0"/>
+    <Control type="ScriptSlider" id="FXFretknb" value="-42.0"/>
+    <Control type="ScriptButton" id="FXWidthbutt" value="1.0"/>
+    <Control type="ScriptSlider" id="FXWidthknb" value="133.6000061035156"/>
+    <Control type="ScriptButton" id="FXFeelbutt" value="0.0"/>
+    <Control type="ScriptButton" id="FXWavesbutt" value="0.0"/>
+    <Control type="ScriptButton" id="FXReverbbutt" value="1.0"/>
+    <Control type="ScriptButton" id="FXDelaybutt" value="0.0"/>
+    <Control type="ScriptComboBox" id="Guitar1cmb" value="10.0"/>
+    <Control type="ScriptComboBox" id="Guitar2cmb" value="5.0"/>
+    <Control type="ScriptComboBox" id="Guitar3cmb" value="4.0"/>
+    <Control type="ScriptComboBox" id="Guitar4cmb" value="7.0"/>
+    <Control type="ScriptSlider" id="Guitar1Attackknb1" value="121.0"/>
+    <Control type="ScriptSlider" id="Guitar1Releaseknb1" value="20000.0"/>
+    <Control type="ScriptSlider" id="Guitar1Attackknb2" value="20.0"/>
+    <Control type="ScriptSlider" id="Guitar1Releaseknb2" value="20000.0"/>
+    <Control type="ScriptSlider" id="Guitar1Releaseknb3" value="5000.0"/>
+    <Control type="ScriptSlider" id="Guitar1Gainknb1" value="-17.09999847412109"/>
+    <Control type="ScriptSlider" id="Guitar1Pansld1" value="100.0"/>
+    <Control type="ScriptSlider" id="Guitar1Attackknb3" value="0.0"/>
+    <Control type="ScriptSlider" id="Guitar1Attackknb4" value="20.0"/>
+    <Control type="ScriptSlider" id="Guitar1Releaseknb4" value="20000.0"/>
+    <Control type="ScriptSlider" id="Guitar1Releaseknb5" value="5000.0"/>
+    <Control type="ScriptSlider" id="Guitar1Gainknb2" value="-12.29999828338623"/>
+    <Control type="ScriptSlider" id="Guitar1Pansld2" value="-79.19999694824219"/>
+    <Control type="ScriptSlider" id="Guitar1Attackknb5" value="0.0"/>
+    <Control type="ScriptSlider" id="Guitar1Attackknb6" value="20.0"/>
+    <Control type="ScriptSlider" id="Guitar1Releaseknb6" value="20000.0"/>
+    <Control type="ScriptSlider" id="Guitar1Releaseknb7" value="5000.0"/>
+    <Control type="ScriptSlider" id="Guitar1Gainknb3" value="-10.69999885559082"/>
+    <Control type="ScriptSlider" id="Guitar1Pansld3" value="1.490000045123452e-6"/>
+    <Control type="ScriptSlider" id="Guitar1Attackknb7" value="0.0"/>
+  </Content>
+  <MidiAutomation/>
+  <MPEData Enabled="0"/>
+</Preset>

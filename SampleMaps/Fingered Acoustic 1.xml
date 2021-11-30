@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="Fingered Acoustic 1" RRGroupAmount="1.00000000" MicPositions=";"
+           SaveMode="2">
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- A#1.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="0"
+          MonolithLength="434176"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- A#2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="434176"
+          MonolithLength="434176"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- A#3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="868352"
+          MonolithLength="434176"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- A#4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="1302528"
+          MonolithLength="434176"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- A1.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="1736704"
+          MonolithLength="434176"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- A2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="2170880"
+          MonolithLength="434176"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- A3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="2605056"
+          MonolithLength="434176"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- A4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="3039232"
+          MonolithLength="434176"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- B1.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="3473408"
+          MonolithLength="434176"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- B2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="3907584"
+          MonolithLength="434176"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- B3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="4341760"
+          MonolithLength="434176"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- B4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="4775936"
+          MonolithLength="434176"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- C#2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="5210112"
+          MonolithLength="434176"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- C#3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="5644288"
+          MonolithLength="434176"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- C#4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="6078464"
+          MonolithLength="434176"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- C2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="6512640"
+          MonolithLength="434176"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- C3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="6946816"
+          MonolithLength="434176"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- C4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="7380992"
+          MonolithLength="434176"/>
+  <sample Root="84" LoKey="84" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- C5.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="7815168"
+          MonolithLength="434176"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- D#2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="8249344"
+          MonolithLength="434176"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- D#3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="8683520"
+          MonolithLength="434176"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- D#4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="9117696"
+          MonolithLength="434176"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- D2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="9551872"
+          MonolithLength="434176"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- D3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="9986048"
+          MonolithLength="434176"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- D4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="10420224"
+          MonolithLength="434176"/>
+  <sample Root="40" LoKey="0" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- E1.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="10854400"
+          MonolithLength="434176"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- E2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="11288576"
+          MonolithLength="434176"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- E3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="11722752"
+          MonolithLength="434176"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- E4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="12156928"
+          MonolithLength="434176"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- F#1.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="12591104"
+          MonolithLength="434176"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- F#2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="13025280"
+          MonolithLength="434176"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- F#3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="13459456"
+          MonolithLength="434176"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- F#4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="13893632"
+          MonolithLength="434176"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- F1.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="14327808"
+          MonolithLength="434176"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- F2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="14761984"
+          MonolithLength="434176"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- F3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="15196160"
+          MonolithLength="434176"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- F4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="15630336"
+          MonolithLength="434176"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- G#1.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="16064512"
+          MonolithLength="434176"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- G#2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="16498688"
+          MonolithLength="434176"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- G#3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="16932864"
+          MonolithLength="434176"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- G#4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="17367040"
+          MonolithLength="434176"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- G1.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="17801216"
+          MonolithLength="434176"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- G2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="18235392"
+          MonolithLength="434176"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- G3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="18669568"
+          MonolithLength="434176"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Acoustic 1 Fingered/AcousticFinger- G4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="432000" MonolithOffset="19103744"
+          MonolithLength="434176"/>
+</samplemap>

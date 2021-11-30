@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<samplemap ID="Basic Acoustic" RRGroupAmount="1.00000000" MicPositions=";"
+           SaveMode="2">
+  <sample Root="46" LoKey="46" HiKey="46" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - A#1.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="0"
+          MonolithLength="1011712"/>
+  <sample Root="58" LoKey="58" HiKey="58" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - A#2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="1011712"
+          MonolithLength="1011712"/>
+  <sample Root="70" LoKey="70" HiKey="70" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - A#3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="2023424"
+          MonolithLength="1011712"/>
+  <sample Root="82" LoKey="82" HiKey="82" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - A#4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="3035136"
+          MonolithLength="1011712"/>
+  <sample Root="45" LoKey="45" HiKey="45" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - A1.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="4046848"
+          MonolithLength="1011712"/>
+  <sample Root="57" LoKey="57" HiKey="57" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - A2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="5058560"
+          MonolithLength="1011712"/>
+  <sample Root="69" LoKey="69" HiKey="69" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - A3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="6070272"
+          MonolithLength="1011712"/>
+  <sample Root="81" LoKey="81" HiKey="81" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - A4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="7081984"
+          MonolithLength="1011712"/>
+  <sample Root="47" LoKey="47" HiKey="47" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - B1.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="8093696"
+          MonolithLength="1011712"/>
+  <sample Root="59" LoKey="59" HiKey="59" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - B2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="9105408"
+          MonolithLength="1011712"/>
+  <sample Root="71" LoKey="71" HiKey="71" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - B3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="10117120"
+          MonolithLength="1011712"/>
+  <sample Root="83" LoKey="83" HiKey="83" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - B4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="11128832"
+          MonolithLength="1011712"/>
+  <sample Root="49" LoKey="49" HiKey="49" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - C#2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="12140544"
+          MonolithLength="1011712"/>
+  <sample Root="61" LoKey="61" HiKey="61" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - C#3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="13152256"
+          MonolithLength="1011712"/>
+  <sample Root="73" LoKey="73" HiKey="73" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - C#4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="14163968"
+          MonolithLength="1011712"/>
+  <sample Root="85" LoKey="85" HiKey="85" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - C#5.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="15175680"
+          MonolithLength="1011712"/>
+  <sample Root="48" LoKey="48" HiKey="48" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - C2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="16187392"
+          MonolithLength="1011712"/>
+  <sample Root="60" LoKey="60" HiKey="60" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - C3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="17199104"
+          MonolithLength="1011712"/>
+  <sample Root="72" LoKey="72" HiKey="72" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - C4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="18210816"
+          MonolithLength="1011712"/>
+  <sample Root="84" LoKey="84" HiKey="84" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - C5.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="19222528"
+          MonolithLength="1011712"/>
+  <sample Root="51" LoKey="51" HiKey="51" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - D#2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="20234240"
+          MonolithLength="1011712"/>
+  <sample Root="63" LoKey="63" HiKey="63" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - D#3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="21245952"
+          MonolithLength="1011712"/>
+  <sample Root="75" LoKey="75" HiKey="75" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - D#4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="22257664"
+          MonolithLength="1011712"/>
+  <sample Root="50" LoKey="50" HiKey="50" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - D2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="23269376"
+          MonolithLength="1011712"/>
+  <sample Root="62" LoKey="62" HiKey="62" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - D3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="24281088"
+          MonolithLength="1011712"/>
+  <sample Root="74" LoKey="74" HiKey="74" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - D4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="25292800"
+          MonolithLength="1011712"/>
+  <sample Root="86" LoKey="86" HiKey="127" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - D5.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="26304512"
+          MonolithLength="1011712"/>
+  <sample Root="40" LoKey="0" HiKey="40" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - E1.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="27316224"
+          MonolithLength="1011712"/>
+  <sample Root="52" LoKey="52" HiKey="52" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - E2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="28327936"
+          MonolithLength="1011712"/>
+  <sample Root="64" LoKey="64" HiKey="64" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - E3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="29339648"
+          MonolithLength="1011712"/>
+  <sample Root="76" LoKey="76" HiKey="76" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - E4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="30351360"
+          MonolithLength="1011712"/>
+  <sample Root="42" LoKey="42" HiKey="42" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - F#1.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="31363072"
+          MonolithLength="1011712"/>
+  <sample Root="54" LoKey="54" HiKey="54" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - F#2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="32374784"
+          MonolithLength="1011712"/>
+  <sample Root="66" LoKey="66" HiKey="66" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - F#3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="33386496"
+          MonolithLength="1011712"/>
+  <sample Root="78" LoKey="78" HiKey="78" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - F#4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="34398208"
+          MonolithLength="1011712"/>
+  <sample Root="41" LoKey="41" HiKey="41" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - F1.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="35409920"
+          MonolithLength="1011712"/>
+  <sample Root="53" LoKey="53" HiKey="53" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - F2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="36421632"
+          MonolithLength="1011712"/>
+  <sample Root="65" LoKey="65" HiKey="65" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - F3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="37433344"
+          MonolithLength="1011712"/>
+  <sample Root="77" LoKey="77" HiKey="77" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - F4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="38445056"
+          MonolithLength="1011712"/>
+  <sample Root="44" LoKey="44" HiKey="44" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - G#1.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="39456768"
+          MonolithLength="1011712"/>
+  <sample Root="56" LoKey="56" HiKey="56" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - G#2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="40468480"
+          MonolithLength="1011712"/>
+  <sample Root="68" LoKey="68" HiKey="68" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - G#3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="41480192"
+          MonolithLength="1011712"/>
+  <sample Root="80" LoKey="80" HiKey="80" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - G#4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="42491904"
+          MonolithLength="1011712"/>
+  <sample Root="43" LoKey="43" HiKey="43" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - G1.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="43503616"
+          MonolithLength="1011712"/>
+  <sample Root="55" LoKey="55" HiKey="55" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - G2.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="44515328"
+          MonolithLength="1011712"/>
+  <sample Root="67" LoKey="67" HiKey="67" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - G3.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="45527040"
+          MonolithLength="1011712"/>
+  <sample Root="79" LoKey="79" HiKey="79" LoVel="0" HiVel="127" RRGroup="1"
+          FileName="{PROJECT_FOLDER}Basic Acoustic/Basic Acoustic - G4.wav"
+          Duplicate="0" SampleRate="48000.0" SampleEnd="1008000" MonolithOffset="46538752"
+          MonolithLength="1011712"/>
+</samplemap>
